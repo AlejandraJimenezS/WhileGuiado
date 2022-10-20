@@ -1,6 +1,6 @@
 
 """
-autor: Alejandra Jiménez Soto
+author: Alejandra Jiménez Soto
 date: 10/20/2022
 
 """
